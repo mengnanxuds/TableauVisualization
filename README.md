@@ -41,4 +41,4 @@ This repository contains various Tableau workbooks that demonstrate my ability t
 
 ## Contact
 
-For any questions or collaborations, feel free to reach out to me at [Your Email Address].
+For any questions or collaborations, feel free to reach out to me at [mengnanxu2333@gmail.com].
